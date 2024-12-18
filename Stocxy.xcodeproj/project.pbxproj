@@ -7,13 +7,13 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		189E86862D0B8DE60017F689 /* ergeg4gt3ewwg.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ergeg4gt3ewwg.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		189E86862D0B8DE60017F689 /* Stocxy.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Stocxy.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		189E86882D0B8DE60017F689 /* ergeg4gt3ewwg */ = {
+		189E86882D0B8DE60017F689 /* Stocxy */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = ergeg4gt3ewwg;
+			path = Stocxy;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -32,7 +32,7 @@
 		189E867D2D0B8DE60017F689 = {
 			isa = PBXGroup;
 			children = (
-				189E86882D0B8DE60017F689 /* ergeg4gt3ewwg */,
+				189E86882D0B8DE60017F689 /* Stocxy */,
 				189E86872D0B8DE60017F689 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -40,7 +40,7 @@
 		189E86872D0B8DE60017F689 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				189E86862D0B8DE60017F689 /* ergeg4gt3ewwg.app */,
+				189E86862D0B8DE60017F689 /* Stocxy.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,9 +48,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		189E86852D0B8DE60017F689 /* ergeg4gt3ewwg */ = {
+		189E86852D0B8DE60017F689 /* Stocxy */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 189E86942D0B8DE80017F689 /* Build configuration list for PBXNativeTarget "ergeg4gt3ewwg" */;
+			buildConfigurationList = 189E86942D0B8DE80017F689 /* Build configuration list for PBXNativeTarget "Stocxy" */;
 			buildPhases = (
 				189E86822D0B8DE60017F689 /* Sources */,
 				189E86832D0B8DE60017F689 /* Frameworks */,
@@ -61,13 +61,13 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				189E86882D0B8DE60017F689 /* ergeg4gt3ewwg */,
+				189E86882D0B8DE60017F689 /* Stocxy */,
 			);
-			name = ergeg4gt3ewwg;
+			name = Stocxy;
 			packageProductDependencies = (
 			);
 			productName = ergeg4gt3ewwg;
-			productReference = 189E86862D0B8DE60017F689 /* ergeg4gt3ewwg.app */;
+			productReference = 189E86862D0B8DE60017F689 /* Stocxy.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -85,7 +85,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 189E86812D0B8DE60017F689 /* Build configuration list for PBXProject "ergeg4gt3ewwg" */;
+			buildConfigurationList = 189E86812D0B8DE60017F689 /* Build configuration list for PBXProject "Stocxy" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -99,7 +99,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				189E86852D0B8DE60017F689 /* ergeg4gt3ewwg */,
+				189E86852D0B8DE60017F689 /* Stocxy */,
 			);
 		};
 /* End PBXProject section */
@@ -251,7 +251,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"ergeg4gt3ewwg/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"Stocxy/Preview Content\"";
 				DEVELOPMENT_TEAM = 9WXK7MG2U7;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -280,7 +280,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"ergeg4gt3ewwg/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"Stocxy/Preview Content\"";
 				DEVELOPMENT_TEAM = 9WXK7MG2U7;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -305,7 +305,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		189E86812D0B8DE60017F689 /* Build configuration list for PBXProject "ergeg4gt3ewwg" */ = {
+		189E86812D0B8DE60017F689 /* Build configuration list for PBXProject "Stocxy" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				189E86922D0B8DE80017F689 /* Debug */,
@@ -314,7 +314,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		189E86942D0B8DE80017F689 /* Build configuration list for PBXNativeTarget "ergeg4gt3ewwg" */ = {
+		189E86942D0B8DE80017F689 /* Build configuration list for PBXNativeTarget "Stocxy" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				189E86952D0B8DE80017F689 /* Debug */,
